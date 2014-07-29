@@ -1,4 +1,4 @@
 Jumpman
 =======
 
-An little example a of Mario game done with LREditor
+An little example of a Mario game done with LREditor
